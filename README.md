@@ -1,4 +1,7 @@
-# test coverage for  [ect (v0.5.9)](http://ectjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-ect.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ect) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ect.svg)](https://travis-ci.org/npmtest/node-npmtest-ect)
+# npmtest-ect
+
+#### basic test coverage for  [ect (v0.5.9)](http://ectjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-ect.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ect) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ect.svg)](https://travis-ci.org/npmtest/node-npmtest-ect)
+
 #### CoffeeScript template engine
 
 [![NPM](https://nodei.co/npm/ect.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ect)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ect/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ect/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ect/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ect/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ect/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ect/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ect/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ect/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ect/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ect/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ect/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ect/build/coverage.html/index.html)
 
